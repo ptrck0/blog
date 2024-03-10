@@ -1,0 +1,8 @@
+baseURL = 'https://ptrck0.github.io/blog/'
+languageCode = 'en-us'
+title = "Blog"
+theme = "hugo-theme-monochrome"
+
+
+[params]
+enable_toc = false # default: true
